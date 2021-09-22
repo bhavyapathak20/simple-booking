@@ -1,0 +1,322 @@
+body{
+    margin:0 0;
+    background-color:hsl(270, 20%, 96%) ;
+}
+
+.purp-shape {
+    background-image: linear-gradient(hsl(293, 100%, 63%),hsl(264, 100%, 61%));
+    height: 750px;
+    width: 450px;
+    border-radius: 350px;
+    position: absolute;
+    bottom: 60px;
+    right: 910px;
+}
+
+.phone {
+    background-color:hsl(0, 0%, 100%);
+    position: absolute;
+    height: 450px;
+    width: 205px;
+    top: 90px;
+    left: 310px;
+    border-radius: 20px;
+}
+
+.inner-phone {
+    background-color: hsl(270, 20%, 96%);
+    position: absolute;
+    height: 434px;
+    width: 189px;
+    top: 98px;
+    left: 318px;
+    border-radius: 15px;
+}
+
+.notch {
+    background-image: linear-gradient(to right, hsl(264, 100%, 61%), hsl(293, 100%, 63%));
+    height: 60px;
+    width: 189px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    position: absolute;
+    top: 98px;
+    left: 318px;
+
+}
+
+.top-notch {
+    background-color: white;
+    height: 20px;
+    width: 114px;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    position: absolute;
+    top: 96px;
+    left: 354px;
+}
+
+.B1 {
+    background-color: hsl(261, 90%, 93%);
+    height: 35px;
+    width: 130px;
+    position: absolute;
+    top: 165px;
+    left: 325px;
+    border-radius: 10px 10px 10px 4px;
+}
+
+.B2 {
+    background-color: hsl(261, 90%, 93%);
+    height: 35px;
+    width: 130px;
+    position: absolute;
+    top: 210px;
+    left: 325px;
+    border-radius: 10px 10px 10px 4px;
+}
+
+.dog-1 {
+    position: absolute;
+    top: 155px;
+    height: 35px;
+    width: 35px;
+    left: 70px;
+    border-radius: 8px;
+}
+
+.dog-2 {
+    position: absolute;
+    top: 155px;
+    height: 35px;
+    width: 35px;
+    left: 110px;
+    border-radius: 8px;
+}
+
+
+.dog-3 {
+    position: absolute;
+    top: 155px;
+    height: 35px;
+    width: 35px;
+    left: 150px;
+    border-radius: 8px;
+}
+
+
+.B3 {
+    background-color:white;
+    height: 30px;
+    width: 110px;
+    position: absolute;
+    top: 295px;
+    left: 390px;
+    border-radius: 10px 10px 4px 10px;
+}
+
+.B4 {
+    background-color:white;
+    height: 25px;
+    width: 85px;
+    position: absolute;
+    top: 330px;
+    left: 415px;
+    border-radius: 10px 10px 4px 10px;
+}
+
+
+
+.B5 {
+    background-color: hsl(261, 90%, 93%);
+    height: 40px;
+    width: 120px;
+    position: absolute;
+    top: 365px;
+    left: 325px;
+    border-radius: 10px 10px 10px 4px;
+}
+
+.B6 {
+    background-image: linear-gradient(to right,hsl(293, 100%, 63%), hsl(264, 100%, 61%));
+    height: 30px;
+    width: 140px;
+    position: absolute;
+    top: 410px;
+    left: 325px;
+    border-radius: 10px 10px 10px 4px;
+}
+
+.B7 {
+    background-image: linear-gradient(to right,hsl(293, 100%, 63%), hsl(264, 100%, 61%));
+    height: 30px;
+    width: 140px;
+    position: absolute;
+    top: 445px;
+    left: 325px;
+    border-radius: 10px 10px 10px 4px;
+}
+
+
+
+.B8 {
+    background-color:white;
+    height: 30px;
+    width: 170px;
+    position: absolute;
+    top: 490px;
+    left: 325px;
+    border-radius: 15px
+}
+
+.samuel {
+    height: 20px;
+    width: 20px;
+    border-radius: 100px;
+    position: absolute;
+    top: 30px;
+    left: 30px;
+    border-style: solid;
+    border-color: aliceblue;
+    border-width: 1.3px;
+}
+
+.name {
+    color:hsl(206, 6%, 90%) ;
+    font-family: 'Rubik', sans-serif;
+    font-weight: 400, 500, 700;
+    font-size: 10px;
+    position: absolute;
+    top: 20px;
+    left: 60px;
+}
+
+
+.status {
+    font-family: 'Rubik', sans-serif;
+    color: hsl(206, 6%, 79%);
+    font-size: 7px;
+    position: absolute;
+    top: 36px;
+    left: 50px;
+}
+
+p{
+    color: hsl(276, 55%, 52%);
+    margin-left: 10px;
+    font-size: 55%;
+    font-family: 'Rubik', sans-serif;
+}
+
+.right {
+    position: absolute;
+    right: 3px;
+    color: hsl(271, 15%, 43%);
+    text-align: left;
+    font-size: 50%;
+    font-family: 'Rubik', sans-serif;
+    
+}
+
+.big {
+    color: hsl(276, 55%, 52%);
+    margin-left: 5px;
+    font-size: 50%;
+    font-family: 'Rubik', sans-serif;
+}
+
+
+.option-1 {
+    font-family: 'Rubik', sans-serif;
+    color: hsl(270, 20%, 96%);
+    position: absolute;
+    bottom: 2px;
+    left: 15px;
+    font-size: 8px;
+
+}
+
+.option-2 {
+    font-family: 'Rubik', sans-serif;
+    color: hsl(270, 20%, 96%);
+    position: absolute;
+    bottom: 2px;
+    left: 15px;
+    font-size: 8px;
+
+}
+
+
+.price {
+    font-family: 'Rubik', sans-serif;
+    color: hsl(270, 20%, 96%);
+    position: absolute; 
+    left: 80px;
+    font-size: 12px;
+}
+
+.radio {
+    position: absolute;
+    background-color:hsl(293, 100%, 63%);
+    left: 5px;
+    top: 5px;
+    border-style: solid;
+    border-color: black;
+
+}
+
+.message {
+    color: hsl(270, 7%, 64%);
+    margin-left: 20px;
+}
+
+
+.back {
+    color: hsl(270, 20%, 96%);
+    font-family: 'Rubik', sans-serif;
+    font-size: 15px;
+    margin: 30px 15px;
+}
+
+
+.send {
+    height: 20px;
+    width: 20px;
+    position: absolute;
+    left: 145px;
+    bottom: 5px;
+}
+
+
+h1{
+    font-size: 30px;
+    color: hsl(271, 36%, 24%);
+    margin-left: 600px;
+    margin-top: 245px;
+    font-family: 'Rubik', sans-serif;
+    font-weight: 400,500,700;
+}
+
+
+.intro {
+    color: hsl(270, 7%, 64%);
+    font-size: 14px;
+    font-family: 'Rubik', sans-serif;
+    width: 30%;
+    margin-left:600px;
+    line-height: 25px;
+}
+
+
+.pink-shape {
+    background-image: linear-gradient(hsl(293, 100%, 63%),hsl(264, 100%, 61%));
+    height: 750px;
+    width: 450px;
+    border-radius: 350px;
+    position: absolute;
+    top: 90px;
+    left: 920px;
+    opacity: 0.1;
+}
