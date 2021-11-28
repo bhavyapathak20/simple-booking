@@ -1,6 +1,8 @@
 body{
     margin:0 0;
     background-color:hsl(270, 20%, 96%) ;
+     overflow-x: hidden;
+     overflow-y: hidden;
 }
 
 .purp-shape {
